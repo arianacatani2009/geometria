@@ -1,5 +1,5 @@
 
-public class Main {
+public class Geometria2023A {
     public static void main(String[] args) {
 
     }
